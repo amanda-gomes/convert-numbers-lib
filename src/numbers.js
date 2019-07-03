@@ -1,4 +1,4 @@
-var numbers = {
+const numbers = {
     'unit': {
       0: '',
       1: 'I',
@@ -48,3 +48,5 @@ var numbers = {
       9000: 'MMMMMMMMM'
     }
   };
+
+  module.exports = numbers;
